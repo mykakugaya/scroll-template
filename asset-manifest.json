@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scroll-template/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/scroll-template/static/js/main.3c70f208.chunk.js",
+    "main.js.map": "/scroll-template/static/js/main.3c70f208.chunk.js.map",
+    "runtime-main.js": "/scroll-template/static/js/runtime-main.810a9364.js",
+    "runtime-main.js.map": "/scroll-template/static/js/runtime-main.810a9364.js.map",
+    "static/js/2.5505b71c.chunk.js": "/scroll-template/static/js/2.5505b71c.chunk.js",
+    "static/js/2.5505b71c.chunk.js.map": "/scroll-template/static/js/2.5505b71c.chunk.js.map",
+    "static/js/3.19ea2945.chunk.js": "/scroll-template/static/js/3.19ea2945.chunk.js",
+    "static/js/3.19ea2945.chunk.js.map": "/scroll-template/static/js/3.19ea2945.chunk.js.map",
+    "index.html": "/scroll-template/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/scroll-template/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5505b71c.chunk.js.LICENSE.txt": "/scroll-template/static/js/2.5505b71c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scroll-template/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810a9364.js",
+    "static/js/2.5505b71c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3c70f208.chunk.js"
+  ]
+}
